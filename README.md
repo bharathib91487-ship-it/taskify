@@ -44,3 +44,18 @@ taskify/
 │
 ├── frontend/
 │   └── taskify-frontend/
+
+
+---
+
+## ⚙️ Setup Instructions (Local)
+
+### Backend
+```bash
+cd backend
+npm install
+node server.js
+
+cd frontend/taskify-frontend
+npm install
+npm start
